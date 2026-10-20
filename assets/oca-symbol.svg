@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="2000" viewBox="0 0 2000 2000">
+  <title>OCA Tracking — Symbol</title>
+  <desc>Minimal OCA symbol: an architectural A/oca arch with an orange data point.</desc>
+  <rect width="2000" height="2000" fill="none"/>
+  <path d="M 390 1460 L 1000 310 L 1610 1460"
+        fill="none" stroke="#FFFFFF" stroke-width="150"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1000" cy="1240" r="145" fill="#FF6A00"/>
+</svg>
